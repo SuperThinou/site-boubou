@@ -31,5 +31,6 @@ h1 {
   text-shadow: -3px 4px 5px rgb(104 74 5 / 50%);
   text-align: center;
   font-family: "font-1", sans-serif;
-  margin-top: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
