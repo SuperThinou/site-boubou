@@ -17,6 +17,7 @@ body {
   font-family: "font--1", sans-serif;
   background: url(./assets/bg.png);
   background-position: center;
+  background-size: cover;
   height: 200vh;
 }
 
